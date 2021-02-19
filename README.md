@@ -23,7 +23,6 @@ They scan our emails, store what we search when we're using their search engine,
    * [Qwant](https://www.qwant.com/)
    * [SwissCows](https://swisscows.com/)
    * [SearX](https://searx.me/)
-   * [Metager](https://metager.de/)
 
 **Youtube**
   
